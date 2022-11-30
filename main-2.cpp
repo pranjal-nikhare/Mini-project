@@ -197,7 +197,7 @@ mainmenu:
     case 3:
         cout << "\nThankyou for "
              << "banking with "
-             << "GeeksforGeeks";
+             << "SBI";
         cin.get();
         break;
     }
